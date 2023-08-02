@@ -1,0 +1,38 @@
+1. Importing the packages
+2. Exploring the dataset - Software Defect Prediction NASA
+3. Data processing using pandas dataframe
+	- converting str to float and integer
+4. Visualization using seaborn & matplotlib
+5. Feature Selection & Data Sampling 
+	- SMOTE - Oversampling
+	- KMFOS Sampling
+		- Reduce number of entries(rows)
+	- Splitting Data for FFNN
+6. Building the model
+	- Logistic Regression
+	- SVM
+	- Naive Bayes
+	- Random Forest
+	- OS-ELM
+	- XGBoost
+	- Bagging Classifier
+	- Boosting Classifier
+	- Gradient Boosting
+	- Voting Classifier
+	- Stacking Classifier
+	- Feed Forward Neural Network
+
+7. Training the model
+8. Building the model with Voting Classifier since it gives better score around 98 comparing with Other Models 
+9. Flask Framework with Sqlite for signup and signin
+10. Importing the packages
+11. User gives input as Feature Values 
+12. The given input is preprocessed for prediction
+13. Trained model is used for prediction
+14. Final outcome is displayed through frontend
+
+Note:
+
+Extension - Voting Classifier, Stacking Classifier is build as Extension for feature values
+and Voting Classifier is used for prediction since we it gives better score  comparing with other Models
+

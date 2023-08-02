@@ -1,0 +1,8 @@
+Anaconnda python3.8.8
+
+OS - Windows 10
+
+Dataset is download from kaggle based on Software Defect Prediction NASA
+
+https://www.kaggle.com/datasets/aczy156/software-defect-prediction-nasa?select=jm1.csv
+
